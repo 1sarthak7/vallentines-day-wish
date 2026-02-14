@@ -58,3 +58,18 @@ It's very simple! You don't need any complex installation.
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/1sarthak7/vallentines-day-wish.git](https://github.com/1sarthak7/vallentines-day-wish.git)
+    ```
+
+<div align="center">
+
+## 💗 Crafted with Heart by  
+### **Sarthak Bhopale**
+
+<p>
+  <a href="https://github.com/1sarthak7">
+    <img src="https://img.shields.io/badge/Follow%20on-GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</div>
+
