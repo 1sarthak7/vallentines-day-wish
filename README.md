@@ -10,7 +10,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Made with Love">
-    <img src="https://img.shields.io/badge/Design-Glassmorphism-blue?style=for-the-badge&logo=css3&logoColor=white" alt="Glassmorphism">
+    <img src="https://img.shields.io/badge/Design-Glassmorphism-blue?style=for-the-badge&logo=css3&logoColor=white" alt="Love">
     <img src="https://img.shields.io/badge/JavaScript-Animations-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JS Animations">
   </p>
 
